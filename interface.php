@@ -11,6 +11,8 @@ class Imp implements Test{
         // Code goes here...
     }
 
+
+    // Magic methods:-
     public function set_value(){
         // Code goes here...
     }
